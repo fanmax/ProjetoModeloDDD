@@ -1,2 +1,3 @@
 # ProjetoModeloDDD
-MVC + DDD 
+Estudo do MVC + DDD + Entity Framework
+
