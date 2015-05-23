@@ -1,3 +1,3 @@
 # ProjetoModeloDDD
-Estudo do MVC + DDD + Entity Framework
+Estudo do Asp.Net MVC + DDD + Entity Framework + AutoMapper
 
